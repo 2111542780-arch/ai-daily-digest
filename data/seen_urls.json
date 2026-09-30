@@ -1,122 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/493629.html",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/493625.html",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/493510.html",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/493502.html",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/493485.html",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/493363.html",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.23085",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.21493",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.27167",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.06445",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.22867",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.22194",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.22870",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.24862",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.24969",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.23065",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/494120.html",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/493653.html",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/494179.html",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/494043.html",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/493865.html",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/493819.html",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/494430.html",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/494429.html",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/494420.html",
-      "date": "2026-09-22"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/494263.html",
-      "date": "2026-09-22"
-    },
-    {
       "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
       "date": "2026-09-23"
     },
@@ -679,6 +563,70 @@
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
       "date": "2026-09-29"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/499308.html",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://openai.com/index/devday-2026-recap",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/499263.html",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/499246.html",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/09/499280.html",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.37773",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.37053",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.37658",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.12743",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19669",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.35799",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.35875",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.36254",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.36406",
+      "date": "2026-09-30"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.37012",
+      "date": "2026-09-30"
     }
   ]
 }
