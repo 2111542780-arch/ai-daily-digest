@@ -1,130 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://openai.com/index/introducing-mentalhealthbench",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/496647.html",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/496740.html",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.11243",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2508.13680",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.27288",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.27869",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.28064",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.27150",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.27276",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.27763",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.27869",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.27572",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/496925.html",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/496961.html",
-      "date": "2026-09-24"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "date": "2026-09-24"
-    },
-    {
       "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
       "date": "2026-09-25"
     },
@@ -607,6 +483,54 @@
     {
       "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
       "date": "2026-10-01"
+    },
+    {
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.22676",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.01569",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.01847",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.01892",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.12102",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.00437",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.00872",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.01249",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.01451",
+      "date": "2026-10-02"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.02038",
+      "date": "2026-10-02"
     }
   ]
 }
