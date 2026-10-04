@@ -1,30 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/09/497382.html",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/497425.html",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/498478.html",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/498271.html",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/497624.html",
-      "date": "2026-09-26"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "date": "2026-09-26"
-    },
-    {
       "url": "https://www.qbitai.com/2026/09/498584.html",
       "date": "2026-09-27"
     },
@@ -551,6 +527,18 @@
     {
       "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
       "date": "2026-10-03"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/501451.html",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "date": "2026-10-04"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/10/501506.html",
+      "date": "2026-10-04"
     }
   ]
 }
