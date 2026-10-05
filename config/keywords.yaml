@@ -1,5 +1,5 @@
 keywords:
-  critical:          # 权重: 10
+  critical:
     - "model release"
     - "open source"
     - "open weights"
@@ -15,8 +15,31 @@ keywords:
     - "Mistral"
     - "DeepSeek"
     - "Qwen"
-
-  high:              # 权重: 5
+    - "人工智能"
+    - "AI"
+    - "芯片"
+    - "机器人"
+    - "中国"
+    - "中美"
+    - "中美关系"
+    - "China"
+    - "United States"
+    - "特朗普"
+    - "Trump"
+    - "美联储"
+    - "Federal Reserve"
+    - "央行"
+    - "利率"
+    - "通胀"
+    - "CPI"
+    - "GDP"
+    - "A股"
+    - "港股"
+    - "美股"
+    - "人民币"
+    - "美元"
+    - "黄金"
+  high:
     - "fine-tuning"
     - "alignment"
     - "RLHF"
@@ -27,13 +50,26 @@ keywords:
     - "agent"
     - "RAG"
     - "context window"
-
-  medium:            # 权重: 2
+    - "semiconductor"
+    - "export controls"
+    - "tariff"
+    - "economy"
+    - "markets"
+    - "stocks"
+    - "bond"
+    - "oil"
+    - "原油"
+    - "房地产"
+    - "消费"
+    - "就业"
+  medium:
     - "regulation"
     - "safety"
     - "partnership"
     - "deployment"
     - "API"
-
-# 注意：个人关注领域在 user_config.yaml 的 personal_interests 中配置
-# 不需要在此处重复添加
+    - "贸易"
+    - "投资"
+    - "融资"
+    - "政策"
+    - "产业"
