@@ -1,10 +1,10 @@
 
-name: "早间要闻 0900"
+name: "🌅 今日5分钟日报"
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *'  # UTC 01:00 = 北京时间 09:00
+    - cron: '0 0 * * *'  # UTC 00:00 = 北京时间 08:00
 
 jobs:
   digest:
@@ -35,5 +35,5 @@ jobs:
           git config user.name "digest-bot"
           git config user.email "bot@digest.local"
           git add data/seen_urls.json archive/
-          git diff --staged --quiet || git commit -m "daily digest $(date +%Y-%m-%d) 09:00"
+          git diff --staged --quiet || git commit -m "daily digest $(date +%Y-%m-%d) 08:00"
           git push
