@@ -78,7 +78,20 @@ async def run(schedule_index: int) -> None:
         overview = await generate_overview(all_items, user_cfg)
 
     # 5. Archive to markdown
-    save_archive(tracks, overview, schedule.get("label", "AI Digest"), user_cfg)
+    # Archive helper in the original project uses its legacy three-track keys.
+    # Keep the new four-section runtime output while mapping the archive only.
+    archive_tracks = {
+        "industry": tracks.get("ai", []),
+        "impact_papers": tracks.get("china", []),
+        "domain_papers": tracks.get("international", []) + tracks.get("finance", []),
+    }
+    archive_cfg = dict(user_cfg)
+    archive_cfg["tracks"] = {
+        "industry": {"label": "🤖 AI / 科技"},
+        "impact_papers": {"label": "🇨🇳 中国"},
+        "domain_papers": {"label": "🌍 国际 + 💰 财经 / 投资"},
+    }
+    save_archive(archive_tracks, overview, schedule.get("label", "AI Digest"), archive_cfg)
 
     # 6. Send WeChat notification
     await send_wechat(tracks, overview, schedule, user_cfg)
