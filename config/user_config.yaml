@@ -1,109 +1,62 @@
-# ============================================================
-#  AI Daily Digest — 个人配置文件
-#  修改此文件后 commit 并 push，GitHub Actions 自动生效
-# ============================================================
-
-# ━━━━ 推送计划 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 支持设置多个推送时间段（每个时间段独立抓取、过滤、推送）
-# time: 推送时间，HH:MM 格式
-# lookback_hours: 该时间段抓取过去多少小时的内容（与推送频次一致）
-# label: 消息开头的标签前缀
+# AI Daily Digest — 个人配置文件
+# 手机端部署版：每天北京时间 08:00 推送一份约 5 分钟的综合日报
 
 schedule:
-  - time: "09:00"
+  - time: "08:00"
     lookback_hours: 24
-    label: "🌅 早间要闻"
+    label: "🌅 今日5分钟日报"
     enabled: true
-
-  - time: "18:00"
-    lookback_hours: 9
-    label: "🌇 傍晚速报"
-    enabled: true
-
-  - time: "22:00"
-    lookback_hours: 4
-    label: "🌙 深夜精选"
-    enabled: true
-
-
-# ━━━━ 全局内容过滤 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 filter:
-  # 屏蔽词，摘要中包含以下词的条目直接丢弃（忽略大小写）
   block_keywords:
     - "sponsored"
     - "advertisement"
     - "NFT"
-
-  # 只保留这些来源 tag（为空 = 全部保留）
-  # tag 与 sources.yaml 中每个源的 tags 字段对应
   include_tags: []
-  # 示例：只要学术和官方来源
-  # include_tags: ["academic", "official"]
-
-  # 排除这些来源 tag
   exclude_tags: []
-  # 示例：不要媒体报道
-  # exclude_tags: ["media"]
-
-
-# ━━━━ 三轨内容配置 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 三条轨道地位平等、独立筛选、独立呈现，互不排名
-#
-# 【业界动态】  来自媒体 / 官方博客，公司动态、产品发布、融资等消息
-# 【影响力论文】来自学术源（arXiv 等），按通用关键词评分筛选高影响力论文
-# 【细分领域】  来自学术源，按个人兴趣相关性筛选，哪怕影响力不高也推
 
 tracks:
-  industry:
-    label: "📰 业界动态"       # 推送时显示的分节标题（可自定义）
-    max_items: 8               # 最多推送条数
-    min_score: 3               # 最低综合评分（关键词×来源权重 + 时效加分）
-
-  impact_papers:
-    label: "🔬 影响力论文"
+  ai:
+    label: "🤖 AI / 科技"
     max_items: 5
-    min_score: 8               # 要求较高的通用关键词评分才进入此轨道
-
-  domain_papers:
-    label: "🎯 细分领域"
+    min_score: 1
+  china:
+    label: "🇨🇳 中国"
     max_items: 5
-    min_personal_score: 8     # 最低个人相关性分（每命中一个 personal_interests 词 +8）
-
-
-# ━━━━ 个人关注领域 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 只影响「细分领域」轨道的筛选，不参与「影响力论文」和「业界动态」评分
-# 每命中一个词 +8 分，超过 min_personal_score 阈值才会被收录
+    min_score: 1
+  international:
+    label: "🌍 国际"
+    max_items: 5
+    min_score: 1
+  finance:
+    label: "💰 财经 / 投资"
+    max_items: 5
+    min_score: 1
 
 personal_interests:
-  - "RLHF"
-  - "alignment"
-  - "mechanistic interpretability"
-  - "reasoning"
-  - "agent"
-  - "3D cloud"
-  # 替换为自己的研究方向，不需要的可删除
-
-
-# ━━━━ LLM 配置 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  - "DeepSeek"
+  - "OpenAI"
+  - "AI agent"
+  - "人工智能"
+  - "芯片"
+  - "机器人"
+  - "中美关系"
+  - "中国经济"
+  - "美联储"
+  - "人民币"
+  - "A股"
+  - "港股"
+  - "美股"
+  - "黄金"
 
 llm:
-  # 可选: openai / deepseek / anthropic
   provider: "deepseek"
   model: "deepseek-chat"
-  summary_language: "zh"      # zh = 中文摘要, en = 英文摘要
-  # 单条摘要最大字数
-  max_summary_chars: 100
-  # 是否生成全局概述（消耗约 500 tokens）
+  summary_language: "zh"
+  max_summary_chars: 140
   generate_overview: true
 
-
-# ━━━━ 发送格式 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 display:
-  # 是否在微信消息中显示原文链接
   show_links: true
-  # 是否显示来源名称
   show_source: true
-  # 是否显示发布时间
   show_time: true
