@@ -2,32 +2,32 @@ sources:
   - name: "OpenAI Blog"
     url: "https://openai.com/blog/rss.xml"
     priority: critical
-    tags: ["official", "openai"]
+    tags: ["official", "openai", "ai"]
 
   - name: "Anthropic News"
     url: "https://www.anthropic.com/news/rss.xml"
     priority: critical
-    tags: ["official", "anthropic"]
+    tags: ["official", "anthropic", "ai"]
 
   - name: "Google DeepMind"
     url: "https://deepmind.google/blog/rss.xml"
     priority: critical
-    tags: ["official", "google"]
+    tags: ["official", "google", "ai"]
 
   - name: "Meta AI Blog"
     url: "https://ai.meta.com/blog/feed/"
     priority: critical
-    tags: ["official", "meta"]
+    tags: ["official", "meta", "ai"]
 
   - name: "Microsoft Research"
     url: "https://www.microsoft.com/en-us/research/feed/"
     priority: high
-    tags: ["official", "microsoft"]
+    tags: ["official", "microsoft", "ai"]
 
   - name: "Mistral AI"
     url: "https://mistral.ai/news/rss.xml"
     priority: high
-    tags: ["official"]
+    tags: ["official", "ai"]
 
   - name: "xAI Blog"
     url: "https://x.ai/blog/rss.xml"
@@ -37,12 +37,12 @@ sources:
   - name: "Hugging Face Blog"
     url: "https://huggingface.co/blog/feed.xml"
     priority: high
-    tags: ["official", "open-source"]
+    tags: ["official", "open-source", "ai"]
 
   - name: "arXiv cs.AI"
     url: "http://arxiv.org/rss/cs.AI"
     priority: high
-    tags: ["academic"]
+    tags: ["academic", "ai"]
 
   - name: "arXiv cs.LG"
     url: "http://arxiv.org/rss/cs.LG"
@@ -52,7 +52,7 @@ sources:
   - name: "TechCrunch AI"
     url: "https://techcrunch.com/tag/artificial-intelligence/feed/"
     priority: medium
-    tags: ["media"]
+    tags: ["media", "ai"]
 
   - name: "VentureBeat AI"
     url: "https://venturebeat.com/category/ai/feed/"
@@ -62,7 +62,7 @@ sources:
   - name: "MIT Technology Review"
     url: "https://www.technologyreview.com/feed/"
     priority: medium
-    tags: ["media", "academic"]
+    tags: ["media", "academic", "ai"]
 
   - name: "The Verge AI"
     url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
@@ -72,14 +72,49 @@ sources:
   - name: "Hacker News AI"
     url: "https://hnrss.org/newest?q=AI+LLM&points=50"
     priority: medium
-    tags: ["community"]
+    tags: ["community", "ai"]
 
   - name: "量子位"
     url: "https://www.qbitai.com/feed"
     priority: medium
-    tags: ["media", "chinese"]
+    tags: ["media", "chinese", "ai"]
 
   - name: "机器之心"
     url: "https://www.jiqizhixin.com/rss"
     priority: medium
     tags: ["media", "chinese"]
+
+  - name: "BBC Technology"
+    url: "https://feeds.bbci.co.uk/news/technology/rss.xml"
+    priority: medium
+    tags: ["media", "international", "ai"]
+
+  - name: "中国新闻网·中国"
+    url: "https://www.chinanews.com/rss/china.xml"
+    priority: high
+    tags: ["media", "chinese", "china"]
+
+  - name: "中国新闻网·国际"
+    url: "https://www.chinanews.com.cn/rss/world.xml"
+    priority: high
+    tags: ["media", "chinese", "international"]
+
+  - name: "BBC World"
+    url: "https://feeds.bbci.co.uk/news/world/rss.xml"
+    priority: high
+    tags: ["media", "international"]
+
+  - name: "BBC Asia"
+    url: "https://feeds.bbci.co.uk/news/world/asia/rss.xml"
+    priority: high
+    tags: ["media", "international"]
+
+  - name: "中国新闻网·财经"
+    url: "https://www.chinanews.com.cn/rss/finance.xml"
+    priority: high
+    tags: ["media", "chinese", "finance"]
+
+  - name: "BBC Business"
+    url: "https://feeds.bbci.co.uk/news/business/rss.xml"
+    priority: high
+    tags: ["media", "international", "finance"]
