@@ -42,7 +42,11 @@ async def run(schedule_index: int) -> None:
 
     schedule = schedules[schedule_index]
     if not schedule.get("enabled", True):
-        logger.info("Schedule index %d (%s) is disabled — exiting.", schedule_index, schedule.get("label"))
+        logger.info(
+            "Schedule index %d (%s) is disabled — exiting.",
+            schedule_index,
+            schedule.get("label"),
+        )
         return
 
     lookback_hours: int = schedule.get("lookback_hours", 24)
@@ -60,30 +64,44 @@ async def run(schedule_index: int) -> None:
     raw_items = await fetch_all(sources)
     logger.info("Fetched %d raw items", len(raw_items))
 
-    # 3. Filter and split into three independent tracks
-    tracks = filter_and_score_tracks(raw_items, user_cfg, lookback_hours=lookback_hours)
-    all_items = tracks["industry"] + tracks["impact_papers"] + tracks["domain_papers"]
-    logger.info("After filtering: %d items total", len(all_items))
+    # 3. Filter into the four configured sections
+    tracks = filter_and_score_tracks(
+        raw_items,
+        user_cfg,
+        lookback_hours=lookback_hours,
+    )
+    all_items = []
+    for items in tracks.values():
+        all_items.extend(items)
+    logger.info(
+        "After filtering: %d items total (ai=%d, china=%d, international=%d, finance=%d)",
+        len(all_items),
+        len(tracks.get("ai", [])),
+        len(tracks.get("china", [])),
+        len(tracks.get("international", [])),
+        len(tracks.get("finance", [])),
+    )
 
     if not all_items:
         logger.info("No items to send — exiting cleanly.")
         return
 
-    # 4. LLM summarization (all tracks together for efficiency)
-    # Items are dicts shared by reference, so summarize_all updates tracks in-place
+    # 4. LLM summarization
+    # Items are dicts shared by reference, so summarize_all updates tracks in-place.
     await summarize_all(all_items, user_cfg)
 
     overview = ""
     if user_cfg.get("llm", {}).get("generate_overview", True):
         overview = await generate_overview(all_items, user_cfg)
 
-    # 5. Archive to markdown
-    # Archive helper in the original project uses its legacy three-track keys.
-    # Keep the new four-section runtime output while mapping the archive only.
+    # 5. Archive to markdown.
+    # The original archive helper still uses three legacy track names.
     archive_tracks = {
         "industry": tracks.get("ai", []),
         "impact_papers": tracks.get("china", []),
-        "domain_papers": tracks.get("international", []) + tracks.get("finance", []),
+        "domain_papers": (
+            tracks.get("international", []) + tracks.get("finance", [])
+        ),
     }
     archive_cfg = dict(user_cfg)
     archive_cfg["tracks"] = {
@@ -91,7 +109,12 @@ async def run(schedule_index: int) -> None:
         "impact_papers": {"label": "🇨🇳 中国"},
         "domain_papers": {"label": "🌍 国际 + 💰 财经 / 投资"},
     }
-    save_archive(archive_tracks, overview, schedule.get("label", "AI Digest"), archive_cfg)
+    save_archive(
+        archive_tracks,
+        overview,
+        schedule.get("label", "AI Digest"),
+        archive_cfg,
+    )
 
     # 6. Send WeChat notification
     await send_wechat(tracks, overview, schedule, user_cfg)
