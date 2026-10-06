@@ -1,86 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2609.06934",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30489",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.31140",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.30928",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.04330",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.31140",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.31395",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.18640",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2512.06902",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://arxiv.org/abs/2607.26865",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/09/498877.html",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "date": "2026-09-28"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-      "date": "2026-09-28"
-    },
-    {
       "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
       "date": "2026-09-29"
     },
@@ -659,6 +579,86 @@
     {
       "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708109.shtml",
       "date": "2026-10-05"
+    },
+    {
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://openai.com/index/eu-text-provenance",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-06/10708390.shtml",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-06/10708372.shtml",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-06/10708312.shtml",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-06/10708398.shtml",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-06/10708376.shtml",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/10-06/10708357.shtml",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/videos/cmkg7dx8wpygo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708368.shtml",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708395.shtml",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708313.shtml",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708105.shtml",
+      "date": "2026-10-06"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708397.shtml",
+      "date": "2026-10-06"
     }
   ]
 }
