@@ -1,86 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.09883",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.38925",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.39371",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2511.22232",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.39146",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.38798",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.38891",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.38964",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.39101",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.39146",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/499663.html",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://openai.com/index/the-eternal-complement",
-      "date": "2026-10-01"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-      "date": "2026-10-01"
-    },
-    {
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
       "date": "2026-10-02"
     },
@@ -627,6 +547,86 @@
     {
       "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708989.shtml",
       "date": "2026-10-08"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.11129",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.10563",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.27820",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.11450",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.10787",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709523.shtml",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709507.shtml",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709496.shtml",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-09/10709491.shtml",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-08/10709310.shtml",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709497.shtml",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709492.shtml",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/10-09/10709490.shtml",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709333.shtml",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709469.shtml",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709562.shtml",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709554.shtml",
+      "date": "2026-10-09"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709477.shtml",
+      "date": "2026-10-09"
     }
   ]
 }
