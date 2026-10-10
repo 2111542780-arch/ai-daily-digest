@@ -1,94 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2606.22676",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.01569",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.01847",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.01892",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.12102",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.00437",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.00872",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.01249",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.01451",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.02038",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/499991.html",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/500098.html",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "date": "2026-10-02"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-      "date": "2026-10-02"
-    },
-    {
       "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
       "date": "2026-10-03"
     },
@@ -627,6 +539,86 @@
     {
       "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709477.shtml",
       "date": "2026-10-09"
+    },
+    {
+      "url": "https://openai.com/index/asana-browser-agent",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://openai.com/index/sophos",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710123.shtml",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710115.shtml",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710114.shtml",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710080.shtml",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-10/10710013.shtml",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710099.shtml",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710058.shtml",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710016.shtml",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710030.shtml",
+      "date": "2026-10-10"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710027.shtml",
+      "date": "2026-10-10"
     }
   ]
 }
