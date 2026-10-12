@@ -1,26 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.qbitai.com/2026/10/501451.html",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://www.qbitai.com/2026/10/501506.html",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "date": "2026-10-04"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-      "date": "2026-10-04"
-    },
-    {
       "url": "https://www.qbitai.com/2026/10/501705.html",
       "date": "2026-10-05"
     },
@@ -615,6 +595,86 @@
     {
       "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710685.shtml",
       "date": "2026-10-11"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.12881",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.12507",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.18048",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.07251",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.08861",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711853.shtml",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711860.shtml",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711910.shtml",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711908.shtml",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/10-12/10711907.shtml",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711887.shtml",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711193.shtml",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/10-12/10711849.shtml",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711818.shtml",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711815.shtml",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711892.shtml",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711909.shtml",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711896.shtml",
+      "date": "2026-10-12"
     }
   ]
 }
