@@ -1,86 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://openai.com/index/updated-model-spec",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723233.shtml",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723206.shtml",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723178.shtml",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723130.shtml",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723089.shtml",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.bbc.co.uk/news/articles/cm3wv36d603yo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gj/2026/10-30/10723167.shtml",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723139.shtml",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723126.shtml",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723119.shtml",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723082.shtml",
-      "date": "2026-10-30"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723235.shtml",
-      "date": "2026-10-30"
-    },
-    {
       "url": "https://arxiv.org/abs/2610.38103",
       "date": "2026-10-31"
     },
@@ -627,6 +547,86 @@
     {
       "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727161.shtml",
       "date": "2026-11-06"
+    },
+    {
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/508236.html",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/508155.html",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.qbitai.com/2026/11/508244.html",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727818.shtml",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727742.shtml",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727814.shtml",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727774.shtml",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727827.shtml",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727542.shtml",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727819.shtml",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727840.shtml",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/11-07/10727775.shtml",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727822.shtml",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727693.shtml",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727826.shtml",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727708.shtml",
+      "date": "2026-11-07"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727667.shtml",
+      "date": "2026-11-07"
     }
   ]
 }
