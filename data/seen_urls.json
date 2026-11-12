@@ -1,86 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://openai.com/index/heimstaden",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://openai.com/index/cisco-cyber",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725872.shtml",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725868.shtml",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725831.shtml",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725817.shtml",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/11-04/10725808.shtml",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725711.shtml",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725700.shtml",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gj/2026/11-04/10725824.shtml",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725807.shtml",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725812.shtml",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725754.shtml",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725750.shtml",
-      "date": "2026-11-04"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725892.shtml",
-      "date": "2026-11-04"
-    },
-    {
       "url": "https://arxiv.org/abs/2611.05771",
       "date": "2026-11-05"
     },
@@ -603,6 +523,86 @@
     {
       "url": "https://www.chinanews.com.cn/cj/2026/11-11/10729933.shtml",
       "date": "2026-11-11"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730743.shtml",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730730.shtml",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730687.shtml",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730629.shtml",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730703.shtml",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730705.shtml",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730712.shtml",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730617.shtml",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730616.shtml",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730665.shtml",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730755.shtml",
+      "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730683.shtml",
+      "date": "2026-11-12"
     }
   ]
 }
