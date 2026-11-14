@@ -1,86 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://arxiv.org/abs/2611.08315",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.07541",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.07652",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2602.13274",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://arxiv.org/abs/2611.07408",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727078.shtml",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727099.shtml",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727077.shtml",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727051.shtml",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/11-06/10727063.shtml",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727100.shtml",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gj/2026/11-06/10727109.shtml",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727038.shtml",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727037.shtml",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10726992.shtml",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727117.shtml",
-      "date": "2026-11-06"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727161.shtml",
-      "date": "2026-11-06"
-    },
-    {
       "url": "https://openai.com/index/partnering-with-hacktron",
       "date": "2026-11-07"
     },
@@ -603,6 +523,86 @@
     {
       "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731383.shtml",
       "date": "2026-11-13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.14935",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.14942",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.15831",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.16661",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://arxiv.org/abs/2611.16871",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731924.shtml",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731910.shtml",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731904.shtml",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731877.shtml",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731842.shtml",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731897.shtml",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731919.shtml",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731866.shtml",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731876.shtml",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731745.shtml",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731945.shtml",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731902.shtml",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731881.shtml",
+      "date": "2026-11-14"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731822.shtml",
+      "date": "2026-11-14"
     }
   ]
 }
