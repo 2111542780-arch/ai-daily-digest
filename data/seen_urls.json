@@ -1,66 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://www.chinanews.com.cn/gn/2026/11-08/10728502.shtml",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728720.shtml",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728684.shtml",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728700.shtml",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gn/2026/11-09/10728694.shtml",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728731.shtml",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728715.shtml",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/gj/2026/11-09/10728607.shtml",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728722.shtml",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728618.shtml",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728616.shtml",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728727.shtml",
-      "date": "2026-11-09"
-    },
-    {
-      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728587.shtml",
-      "date": "2026-11-09"
-    },
-    {
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
       "date": "2026-11-10"
     },
@@ -603,6 +543,86 @@
     {
       "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732672.shtml",
       "date": "2026-11-16"
+    },
+    {
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733393.shtml",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733309.shtml",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733427.shtml",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733426.shtml",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gn/2026/11-17/10733281.shtml",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733390.shtml",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/gj/2026/11-17/10733159.shtml",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733218.shtml",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733212.shtml",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733176.shtml",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733361.shtml",
+      "date": "2026-11-17"
+    },
+    {
+      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733332.shtml",
+      "date": "2026-11-17"
     }
   ]
 }
